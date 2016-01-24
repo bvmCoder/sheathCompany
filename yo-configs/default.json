@@ -1,7 +1,7 @@
 {
 	"prompts":{
-		"optAppName": "meancompany",
-		"optAppTitle": "MEAN Company",
+		"optAppName": "sheathcompany",
+		"optAppTitle": "Sheath Company",
 		"optAppDescription": "Learn to build a web application with the MEAN stack",
 		"optAppKeywords": [
 			"mean-seed",
@@ -13,9 +13,9 @@
 			"node",
 			"learn"
 		],
-		"optGithubName": "mygithubhandlehere",
-		"optAuthorName": "First Last <first.last@email.com>",
-		"optOperatingSystem": "windows",
+		"optGithubName": "bvmCoder",
+		"optAuthorName": "Dixit Patel <talkwithdixit@gmail.com>",
+		"optOperatingSystem": "mac",
 		"optServerPort": 3000,
 		"optServerHttpPort": 3002,
 		"optSocketPort": 3001,

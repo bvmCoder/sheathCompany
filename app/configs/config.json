@@ -11,8 +11,8 @@
 		"logfile": "forever.log"
 	},
 	"app": {
-		"name": "meancompany",
-		"title": "MEAN Company"
+		"name": "sheathcompany",
+		"title": "Sheath Company"
 	},
 	"platform":"",
 	"server": {
