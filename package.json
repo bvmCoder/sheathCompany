@@ -1,9 +1,9 @@
 {
-	"author": "talkwithdixit@gmail.com",
-	"name": "sheath-company",
+	"author": "First Last <first.last@email.com>",
+	"name": "meancompany",
 	"version": "0.0.0",
-	"description": "Ecomerce Application",
-	"homepage": "https://github.com/bvmCoder/sheath-company",
+	"description": "Learn to build a web application with the MEAN stack",
+	"homepage": "https://github.com/mygithubhandlehere/meancompany",
 	"dependencies": {
 		"async": "1.5.0",
 		"body-parser": "1.14.1",
