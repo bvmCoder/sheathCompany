@@ -1,0 +1,11 @@
+{
+	"name": "sheath-company",
+    "description": "Ecomerce Application",
+    "version": "0.0.0",
+    "url": "https://github.com/bvmCoder/sheath-company",
+    "options": {
+        "paths": "./app/src/",
+        "outdir": "yuidocs/frontend",
+        "exclude": "bower_components,build,deploys,test"
+    }
+}
